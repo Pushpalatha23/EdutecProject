@@ -1,0 +1,1 @@
+The Edutec project is a Completely Admission Based application runs on CRUD Operations .For This Project We have used the Frontend and Backend Technlogies .Front end skills like HTML5,CSS3 BOOTSTRAP JAVASCRIPT AND REA T.JS .And Backend Skilss Like NODE.JS WITH EXPRESS.JS AND POSTGRESQL Database . 
